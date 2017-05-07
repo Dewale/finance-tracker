@@ -1,0 +1,3 @@
+== README
+
+After successfully completing the blogging application, I am moving on to a Stock Tracker applciation.
